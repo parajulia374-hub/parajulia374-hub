@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Parajulia374-hub
 
-<!--
-**parajulia374-hub/parajulia374-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I’m a **frontend web development learner**, exploring how to build clean, responsive, and user-friendly websites.
 
-Here are some ideas to get you started:
+## 🌱 What I’m Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focusing on:
+- 🌐 **HTML5**
+- 🎨 **CSS3**
+- ⚡ **JavaScript**
+- ⚛️ **React** (beginner)
+- 📱 **Responsive Web Design**
+
+## 🛠️ Tools I Use
+
+- Visual Studio Code  
+- Git & GitHub  
+- Browser DevTools  
+
+## 🚀 My Goal
+
+- Build modern, responsive websites
+- Improve my UI/UX skills
+- Create real-world frontend projects
+- Grow step by step as a frontend developer
+
+## 📚 Projects
+
+I’m working on small projects to practice what I learn.  
+More projects will be added soon 🚧
+
+## 📬 Connect With Me
+
+- GitHub: [parajulia374-hub](https://github.com/parajulia374-hub)
+
+---
+
+⭐ *This profile is a work in progress as I continue learning frontend development.*
